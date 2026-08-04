@@ -65,6 +65,7 @@ Pandas
 Dask
 Hive
 Impala
+
 ---
 
 ## 🚀 Featured Projects
