@@ -17,38 +17,64 @@ Here are some ideas to get you started:
 
 # Hi, I'm Zahra Karandish 👋
 
-Software Developer based in Montreal, Canada.
+I'm a Software Developer based in Montreal, Canada.
 
-I enjoy designing and building full-stack web applications, cross-platform mobile applications, and scalable backend systems using modern technologies. My interests include full-stack development, mobile development, AI-powered applications, and data engineering.
+I enjoy building full-stack web applications, cross-platform mobile applications, and scalable backend systems. My experience spans React Native, React, Node.js, Python, AI-powered applications, and data engineering.
+
+I particularly enjoy taking projects from an idea to a complete application by designing the database, backend services, APIs, and user interface.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-Java • Python • JavaScript • C#
+💻 Languages
 
-### Frontend & Mobile
-React • React Native • Expo • HTML • CSS
+Java
+Python
+JavaScript
+C#
 
-### Backend
-Node.js • Express.js • Django • REST APIs • GraphQL
+⚙️ Backend
 
-### Databases
-MongoDB • Cloud Firestore • SQLite • MySQL • PostgreSQL • Impala
+Node.js
+Express
+Django
+REST APIs
+GraphQL
 
-### Data Engineering & AI
-Pandas • Dask • Hive • GPT API • LangChain • LlamaIndex
+📱 Frontend & Mobile
 
-### Tools
-Git • GitHub • Ubuntu • DBeaver • Firebase
+React
+React Native
+Expo
 
+🗄 Databases
+
+MongoDB
+Firestore
+SQLite
+MySQL
+PostgreSQL
+
+🤖 AI & Data Engineering
+
+GPT API
+LangChain
+LlamaIndex
+Pandas
+Dask
+Hive
+Impala
 ---
 
 ## 🚀 Featured Projects
 
 ### 🚶 Calgary Best Walks
-Cross-platform React Native application featuring interactive maps, Firebase Authentication, Cloud Firestore, SQLite, and Mapbox.
+Cross-platform React Native application for discovering and exploring walking routes throughout Calgary.
+
+Tech Stack
+
+React Native • Firebase • SQLite • Mapbox
 
 🔗 Repository:
 https://github.com/zkrandish/RNCalgaryBestWalks.git
@@ -56,7 +82,11 @@ https://github.com/zkrandish/RNCalgaryBestWalks.git
 ---
 
 ### 🛒 Online Shop
-Full-stack e-commerce platform built with Node.js, Express.js, MongoDB, EJS, Stripe, and Socket.IO.
+Full-stack e-commerce application featuring authentication, payments, shopping cart, and admin dashboard.
+
+Tech Stack
+
+Node.js • Express • MongoDB • Stripe
 
 🔗 Repository:
 https://github.com/zkrandish/online-shop-nodeJs.git
@@ -64,7 +94,11 @@ https://github.com/zkrandish/online-shop-nodeJs.git
 ---
 
 ### 💬 Social Media Platform
-Full-stack social media application built with React, Node.js, Express.js, MongoDB, GraphQL, JWT authentication, and Socket.IO.
+Full-stack React and Node.js application featuring GraphQL, JWT authentication, Socket.IO, and MongoDB.
+
+Tech Stack
+
+React • Node.js • GraphQL • MongoDB
 
 🔗 Repository:
 https://github.com/zkrandish/React-Frontend.git
