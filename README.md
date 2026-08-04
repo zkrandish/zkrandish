@@ -117,5 +117,5 @@ https://github.com/zkrandish/React-Frontend.git
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/zahra-karandish-bb2160290/
+- LinkedIn:https://www.linkedin.com/in/zkarandish/
 - GitHub: https://github.com/zkrandish
